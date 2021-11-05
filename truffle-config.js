@@ -1,7 +1,7 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
 
-const privateKey = "b75b705cd2c64305c7acd2f58b68ea8bf1f3f26d0eb1e70d7fdfe610b4b50bd2";
-const bscScanAPIKey = "S88XW94S2N6DUADA2RIGSGK3UJMQN2JRI1";
+const privateKey = "";
+const bscScanAPIKey = "";
 module.exports = {
     contracts_directory: "./contracts",
     compilers: {
