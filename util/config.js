@@ -2,8 +2,8 @@
 export const config = {
     'BUSD':"0x3F02C8B8c2b7048B0903511F4E298e30f8f01993",
     'ZeroAddress':"0x0000000000000000000000000000000000000000",
-    'DAO':"0x33C817dbB6d2A88eDe62fc7E79a3A6DA9D8c30Bb",
-    'Policy':"0x4D2c3295A82784e4820a7593E4A263BF10784dC2"
+    'DAO':"",
+    'Policy':""
 };
 
 // online
